@@ -3,7 +3,7 @@
 Explore the sample PHP charts created to show some of the enticing features packed in ApexCharts.
 All examples here are included with source code to save your development time.
 
-![screenshot](https://raw.githubusercontent.com/leandrocfe/filament-apex-charts/master/screenshots/example.jpg)
+![screenshot](https://raw.githubusercontent.com/leandrocfe/filament-apex-charts-demo/master/screenshots/example.jpg)
 
 ## Installation
 
