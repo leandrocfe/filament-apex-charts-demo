@@ -10,19 +10,20 @@ All examples here are included with source code to save your development time.
 Clone the repo locally:
 
 ```bash
-git clone https://github.com/leandrocfe/filament-apex-charts.git
+git clone https://github.com/leandrocfe/filament-apex-charts-demo.git
 ```
 
 Switch to the repo folder:
 
 ```bash
-cd filament-apex-charts
+cd filament-apex-charts-demo
 ```
 
-Install PHP dependencies:
+Install dependencies:
 
 ```bash
 composer install
+npm install && npm run build
 ```
 
 Setup configuration:
@@ -47,7 +48,6 @@ You may run the following commands in your terminal:
 
 ```bash
 php artisan migrate --seed
-npm install && npm run build
 ```
 
 ## Usage
